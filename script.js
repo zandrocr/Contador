@@ -12,6 +12,7 @@ function clic(){
     v2 = Number(v2.value)
     pulo = Number(pulo.value)
 
+    //confimaçao
     console.log(v1, v2, pulo)
 
     //condição para inicio
