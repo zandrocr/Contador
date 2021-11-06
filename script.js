@@ -4,6 +4,9 @@ function clic(){
     let pulo = document.querySelector('#pular')
     let resp = document.querySelector('#resp')
 
+    //limpa o resultado anterior antes de calcular o proximo
+    resp.innerHTML = ""
+
     //passando para valores
     v1 = Number(v1.value)
     v2 = Number(v2.value)
@@ -12,7 +15,7 @@ function clic(){
     console.log(v1, v2, pulo)
 
     //condição para inicio
-    if (v1 == 0 || v2 == 0 || pulo <= 0){
+    if ((v1 == '' || v2 == '') && pulo <= 0){
         alert('Valores invalidos, digite os valores validos nos parametros')
     }else{
         if (v1 < v2){
