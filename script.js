@@ -8,9 +8,9 @@ function clic(){
     resp.innerHTML = ""
 
     //passando para valores
-    v1 = Number(v1.value)
-    v2 = Number(v2.value)
-    pulo = Number(pulo.value)
+    v1 = Number.parseFloat(v1.value)
+    v2 = Number.parseFloat(v2.value)
+    pulo = Number.parseFloat(pulo.value)
 
     //confimaçao
     console.log(v1, v2, pulo)
@@ -21,11 +21,11 @@ function clic(){
     }else{
         if (v1 < v2){
             for(let c = v1; c <= v2; c += pulo){
-                resp.innerHTML += `${c}.  `
+                resp.innerHTML += `${c.toFixed(2)}.  `
             }
         }else{
             for(let b = v1; b >= v2; b -= pulo){
-                resp.innerHTML += `${b}. `
+                resp.innerHTML += `${b.toFixed(2)}. `
             }
         }
     }
