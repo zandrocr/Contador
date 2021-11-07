@@ -1,4 +1,5 @@
 # *__Contador de numeros__*
+
 <img src="https://img.shields.io/badge/ZandroCR-Contador-blue">
 <img src="https://img.shields.io/github/license/zandrocr/Contador">
 
@@ -7,9 +8,11 @@
 >Um contador de números **inteiros** e números **flutuantes**, simples de utilizar e de fácil leitura.
 
 ## **_Tecnologias_**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 50px;">
+<div style="display: flex;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 50px;">
+</div>
 
 #
 
