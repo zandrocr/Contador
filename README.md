@@ -1,7 +1,9 @@
 # *__Contador de numeros__*
 
-<img src="https://img.shields.io/badge/ZandroCR-Contador-blue">
-<img src="https://img.shields.io/github/license/zandrocr/Contador">
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/ZandroCR-Contador-blue">
+    <img src="https://img.shields.io/github/license/zandrocr/Contador">
+<div>
 
 <br>
 
