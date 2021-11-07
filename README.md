@@ -7,7 +7,7 @@
 
 <br>
 
->Um contador de números **inteiros** e números **flutuantes**, simples de utilizar e de fácil leitura.
+>Um contador de números **inteiros** e números **reais**, simples de utilizar e de fácil leitura.
 
 ## **_Tecnologias_**
 <div style="display: flex;">
