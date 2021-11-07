@@ -26,7 +26,7 @@ Para uso no desktop, no seu navegador de preferência.
 
 Com mesma funcionalidade e desempenho, mais facilidade para o uso em qualquer lugar.
 
-<div style="display: flex; width: 49vh;">
+<div style="display: flex; width: 100vh;">
     <img src="Imagens/contCel.png">
     <img src="Imagens/contandoCel.png" style="margin-left: 20px;">
 </div>
